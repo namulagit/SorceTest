@@ -1,0 +1,11 @@
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\Sorce_smokeAutoMation.dll
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\Sorce_smokeAutoMation.pdb
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\WebDriver.dll
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\WebDriver.Support.dll
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\WebDriver.xml
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\WebDriver.Support.xml
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\obj\Release\Sorce_smokeAutoMation.csproj.ResolveComReference.cache
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\obj\Release\Sorce_smokeAutoMation.dll
+D:\New QA Project\Anupam\Sorce-Engage\Sorce_smokeAutoMation\obj\Release\Sorce_smokeAutoMation.pdb

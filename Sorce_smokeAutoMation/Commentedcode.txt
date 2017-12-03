@@ -1,0 +1,19 @@
+﻿SmokeTest1.CS
+	TestMEthod1
+		/*cDriver.Manage().Window.Maximize();
+            cDriver.Navigate().GoToUrl("http://beacon-test/sorce/");
+            cDriver.Manage().Timeouts().ImplicitWait = pageloadwait;
+            // System.Diagnostics.Process.Start("C:\\AutoITe\\EngageLoginChrome.exe");
+            System.Diagnostics.Process.Start("EngageLoginChrome.exe");
+            cDriver.Manage().Timeouts().ImplicitWait = pageloadwait;
+            WebDriverWait pageloadTime = new WebDriverWait(cDriver,TimeSpan.FromMinutes(1));
+            ExplicitWait(cDriver, "html/body/div[2]/div/div[1]/a");*/
+
+
+           // chromeDriver.SwitchTo().Alert().SetAuthenticationCredentials("Sorce\\loaduser1", "Vanadium2200");
+            
+            //firefoxDriver.Manage().Window.Maximize();
+			//firefoxDriver.SwitchTo().Alert().SetAuthenticationCredentials("Sorce\\loaduser1", "Vanadium2200");
+AutoitScript: Mozilla1
+		Send("{SHIFTDOWN}s{SHIFTUP}orce\{SHIFTDOWN}s{SHIFTUP}ynverse.{SHIFTDOWN}t{SHIFTUP}est3{TAB}st{SHIFTDOWN};{SHIFTUP}9872{SHIFTDOWN}2{SHIFTUP}s{ENTER}")
+		Send("leou{TAB}{SHIFTDOWN}l{SHIFTUP}eo123456{ENTER}")

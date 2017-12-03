@@ -1,0 +1,5 @@
+Engage-beacon site -- http://beacon-test/sorce/
+
+Admin Access: UserID: Sorce/Synverse.Test3, Password: st:9872@s
+
+New User Create: UserID: leou, Password: Leo123456

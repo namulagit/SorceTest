@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\mavericks\documents\visual studio 2015\projects\sorce-engage\sorce_smokeautomation\orderedtest1.orderedtest" id="bc65c8e8-113a-4dca-aacb-89f0c2b08187" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="d9ad162b-707e-03a6-9ee4-a030d9541075" name="checkHomePageNLogin" storage="bin\debug\sorce_smokeautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="d50a36fd-a074-2e17-b1e4-b1da0cc6c3e1" name="checkUserNewLogin" storage="bin\debug\sorce_smokeautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
